@@ -1,6 +1,6 @@
 {
   "name": "apple-on-device-ai",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "\uf8ff Apple foundation model bindings for NodeJS (supports Vercel AI SDK)",
   "main": "src/index.ts",
   "scripts": {
